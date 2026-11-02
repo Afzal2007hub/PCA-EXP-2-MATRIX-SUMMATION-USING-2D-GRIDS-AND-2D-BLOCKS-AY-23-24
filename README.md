@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>Mohamed Afzal N</h3>
-<h3>212225220065</h3>
+<h3>Enter Your Name: Mohamed Afzal N</h3>
+<h3>Enter Your Register No: 212225220065</h3>
 <h3>EX. NO 2</h3>
 <h3>DATE: 02/11/2026</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
