@@ -265,7 +265,8 @@ int main()
 ~~~
 
 ## OUTPUT:
-<img width="662" height="562" alt="WhatsApp Image 2026-11-02 at 8 44 58 AM" src="https://github.com/user-attachments/assets/aa175f2a-996d-4954-84be-ba26b25ba2aa" />
+<img width="662" height="562" alt="output pca-2" src="https://github.com/user-attachments/assets/dbe4b372-42d1-46da-b1a8-bbfa99713829" />
+
 
 
 ## RESULT:
