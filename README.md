@@ -35,6 +35,8 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
+~~~
+
 %%writefile matrix_add.cu
 
 #include <cuda_runtime.h>
